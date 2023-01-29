@@ -1,1 +1,1 @@
-# aim-training
+# Aim Training Project
