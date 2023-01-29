@@ -34,7 +34,7 @@ This app is similar to aimlab. It's designed to strengthen the dominance of usin
 
 ## Author Info
 
-- Linkedin - [@iamahmetkoca](https://linkedin.com/iamahmetkoca)
+- Linkedin - [@iamahmetkoca](https://www.linkedin.com/in/iamahmetkoca/)
 - Website - [Ahmet Koca](https://ahmetkoca.com.tr)
 
 [Back To The Top](#read-me-template)
