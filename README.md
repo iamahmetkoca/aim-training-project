@@ -1,6 +1,6 @@
 # Aim Training Project csharp
 
-![Project Image](https://ahmetkoca.com.tr/github/aim-training-project/aim-training.png)
+![Project Image](https://ahmetkoca.dev/github/aim-training-project/aim-training.png)
 
 
 
